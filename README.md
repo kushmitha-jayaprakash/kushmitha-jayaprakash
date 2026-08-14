@@ -11,7 +11,7 @@ Current Goals
 - Exploring Data Structures & Algorithms
 - Building Python & database projects
 
-### 📫 Connect with Me
+Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-profile-url)
 - **Email:** kushmithajayaprakash@gmail.com
 <!--
