@@ -12,7 +12,7 @@ Current Goals
 - Building Python & database projects
 
 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile-url)
+- [LinkedIn]((https://www.linkedin.com/in/kushmitha-jayaprakash-86b49225a/))
 - **Email:** kushmithajayaprakash@gmail.com
 <!--
 **kushmitha-jayaprakash/kushmitha-jayaprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
